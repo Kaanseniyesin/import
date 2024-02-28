@@ -39,7 +39,7 @@ const DropdownMenu = ({ toggleModal }) => {
 
           <Menu.Item
             as={"a"}
-            href="https://github.com"
+            href="https://comingsoon"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center justify-between p-1"
@@ -59,10 +59,10 @@ const DropdownMenu = ({ toggleModal }) => {
 
           <Menu.Item
             as={"button"}
-            onClick={() => toggleModal("MIT License")}
+            onClick={() => toggleModal("add info here")}
             className="flex items-center justify-between p-1 font-medium"
           >
-            <span>License</span>
+            <span>add title here</span>
             <FiFileText aria-hidden />
           </Menu.Item>
         </Menu.Items>
