@@ -11,7 +11,9 @@ const Footer = () => {
           rel="noopener noreferrer"
           className="font-bold"
         >
-          DexWatcher
+          CoinGecko
+        </a>{" "}
+        and{" "}
         <a
           href="https://www.messari.io/"
           rel="noopener noreferrer"
