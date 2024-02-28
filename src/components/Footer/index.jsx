@@ -6,7 +6,7 @@ const Footer = () => {
       <p>
         Powered by{" "}
         <a
-          href="https://www.coingecko.com//"
+          href="https://www.coingecko.com/"
           target="_blank"
           rel="noopener noreferrer"
           className="font-bold"
