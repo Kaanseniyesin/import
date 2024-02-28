@@ -6,12 +6,12 @@ const Footer = () => {
       <p>
         Powered by{" "}
         <a
-          href="https://www.coingecko.com/"
+          href="https://www.comingsoon.com/"
           target="_blank"
           rel="noopener noreferrer"
           className="font-bold"
         >
-          CoinGecko
+          Dexwatcher
         </a>{" "}
         and{" "}
         <a
