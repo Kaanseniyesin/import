@@ -8,7 +8,7 @@ const Footer = () => {
         <a
           href="https://www.coingecko.com/"
           target="_blank"
-          rel="noopener noreferrer"
+          
           className="font-bold"
         >
           Dexwatcher
