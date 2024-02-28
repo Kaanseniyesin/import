@@ -39,12 +39,12 @@ const DropdownMenu = ({ toggleModal }) => {
 
           <Menu.Item
             as={"a"}
-            href="https://github.com/piero-vic/crypto-dashboard"
+            href="https://github.com"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center justify-between p-1"
           >
-            <span>GitHub</span>
+            <span>Submit a Coin</span>
             <AiOutlineGithub aria-hidden />
           </Menu.Item>
 
