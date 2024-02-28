@@ -11,7 +11,7 @@ const Footer = () => {
           rel="noopener noreferrer"
           className="font-bold"
         >
-          Coingecko
+          CoinGecko
         </a>{" "}
         and{" "}
         <a
