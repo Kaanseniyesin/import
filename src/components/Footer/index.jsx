@@ -12,7 +12,6 @@ const Footer = () => {
           className="font-bold"
         >
           DexWatcher
-        
         <a
           href="https://www.messari.io/"
           rel="noopener noreferrer"
